@@ -1,3 +1,4 @@
 this is my first git  test file.
 This is the second line of that.
-
+Its quite cold out today.
+Was cold yesterday too.
